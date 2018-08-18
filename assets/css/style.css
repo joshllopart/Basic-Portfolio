@@ -1,0 +1,192 @@
+#josh {
+    float: left;
+    /* margin: 0px; */
+    width: 200px;
+    Height: 180px;
+    margin-right: 5px;
+}
+
+
+body {
+    background-color: lightgrey;
+}
+
+.name {
+    background-color: rgb(65, 160, 155);;
+    float:left;
+    width: 160px;
+    height: 52px;
+    font-size: 22px;
+    margin-top: 0px;
+    padding:23px 0px 0px 16px;
+    color: white;
+}
+
+.white {
+    margin: 50px auto 0px;
+    padding: 22px;
+    height: 500px;
+    width: 960px;
+    background: white;
+    background-clip: padding-box;
+    align: center;
+    position: relative;
+}
+
+footer {
+    position: fixed;
+    clear:both;
+    padding:20px 0 0 0;
+    margin: 30px 0 0 0;
+    width: 100%;
+    background-color: grey;
+    text-align: center;
+    color: white;
+    height: 30px;
+    bottom: 0px;
+}
+
+header {
+    width: 960px;
+    height: 75px;
+    background-color: white;
+    margin: 0px auto 0px;
+}
+
+nav {
+    float:right;
+    background: color;
+    margin: auto;
+  
+}
+
+/* .menu {
+    margin: 0px;
+    float: right;
+} */
+
+/* #paragraph {
+    color: gray;
+    
+} */
+
+h2 {
+    color:  rgb(65, 160, 155);
+}
+
+menu {
+    /* display: inline-block: */
+    float: right;
+    margin: 0px;
+}
+
+button {
+
+    
+    float: right;
+    margin:auto;
+}
+.clearfix {
+
+   clear: both; 
+}
+
+button{
+    border-style: none;
+    color: grey;
+    padding-top: 25px;
+    font-size: 15px;
+}
+
+img {
+   width: 200px;
+   height:125px;
+}
+
+
+
+/* #text {
+    float: left;
+} */
+ #message {
+
+    resize: none;
+    width: 100%;
+    height: 200px;
+ }
+ hr{
+
+margin-bottom: 25px;
+ }
+
+ .pic1 {
+    margin-right:30px;
+    float: left;
+    margin-bottom: 30px;
+}
+
+.pic2 {
+    
+    margin-bottom: 30px;
+
+}
+
+.pic3 {
+    margin-right:30px;
+    float: left;
+    margin-bottom: 30px;
+}
+.pic4 {
+    margin-right:500px;
+    float: left;
+}
+
+.pic5 {
+
+    float:left;
+    margin-right: 500px;
+
+}
+
+.white2 {
+    margin: 50px auto 0px;
+    padding: 22px;
+    height: 550px;
+    width: 960px;
+    background: white;
+    /* background-clip: padding-box;
+    align: center; */
+    /* position: relative; */
+}
+
+/* .centered {
+    color: hotpink;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+} */
+
+.text {
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+    
+        line-height: 1.8;
+    color: grey;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+/* .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); */
+}
+.test {
+    float: left; 
+    position: relative;
+    border: 10px solid red;
+
+}
